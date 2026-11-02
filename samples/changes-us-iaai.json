@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": 3038979,
+      "car_id": "iaai:45785338",
+      "market": "us",
+      "type": "disappeared",
+      "at": "2026-11-02T07:26:07.567360Z",
+      "old_price": null,
+      "new_price": null,
+      "pct": null
+    },
+    {
+      "id": 3038980,
+      "car_id": "iaai:46238015",
+      "market": "us",
+      "type": "disappeared",
+      "at": "2026-11-02T07:26:07.568316Z",
+      "old_price": null,
+      "new_price": null,
+      "pct": null
+    },
+    {
+      "id": 3038981,
+      "car_id": "iaai:46203626",
+      "market": "us",
+      "type": "disappeared",
+      "at": "2026-11-02T07:26:07.568836Z",
+      "old_price": null,
+      "new_price": null,
+      "pct": null
+    },
+    {
+      "id": 3038982,
+      "car_id": "iaai:46223198",
+      "market": "us",
+      "type": "disappeared",
+      "at": "2026-11-02T07:26:07.570362Z",
+      "old_price": null,
+      "new_price": null,
+      "pct": null
+    },
+    {
+      "id": 3038983,
+      "car_id": "iaai:46120906",
+      "market": "us",
+      "type": "disappeared",
+      "at": "2026-11-02T07:26:07.570891Z",
+      "old_price": null,
+      "new_price": null,
+      "pct": null
+    }
+  ],
+  "next_cursor": "eyJpZCI6MzAzOTA3OH0"
+}
